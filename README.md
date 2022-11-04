@@ -6,7 +6,7 @@
 
 This is a yeast dataset that was constructed programmatically and designed to run fast.
 
-<a href="sacSer2.gtf">sacSer2/gtf</a> - GTF for SacSer2 assembly <BR>
+<a href="sacSer2.gtf">sacSer2.gtf</a> - GTF for SacSer2 assembly <BR>
 <a href="control1.fq.gz">control1.fq.gz</a> - FASTQ file for control replicate #1 <BR>
 <a href="control1.fq.gz">control2.fq.gz</a> - FASTQ file for control replicate #2 <BR>
 <a href="treatment1.fq.gz">treatment1.fq.gz</a> - FASTQ file for treated replicate #1 <BR>
