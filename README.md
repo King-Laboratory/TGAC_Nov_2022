@@ -6,11 +6,28 @@
 
 This is a yeast dataset that was constructed programmatically and designed to run fast.
 
-<a href="sacSer2.gtf">sacSer2.gtf</a> - GTF for SacSer2 assembly <BR>
-<a href="control1.fq.gz">control1.fq.gz</a> - FASTQ file for control replicate #1 <BR>
-<a href="control1.fq.gz">control2.fq.gz</a> - FASTQ file for control replicate #2 <BR>
-<a href="treatment1.fq.gz">treatment1.fq.gz</a> - FASTQ file for treated replicate #1 <BR>
-<a href="treatment2.fq.gz">treatment2.fq.gz</a> - FASTQ file for treated replicate #2 <BR>
+FASTQ file for control replicate #1
+<PRE>
+https://storage.googleapis.com/tgb-nov2021/control1.fq.gz
+</PRE>
+FASTQ file for control replicate #2
+<PRE>
+https://storage.googleapis.com/tgb-nov2021/control2.fq.gz
+</PRE>
+FASTQ file for treated replicate #1
+<PRE>
+https://storage.googleapis.com/tgb-nov2021/treatment1.fq.gz
+</PRE>
+FASTQ file for treated replicate #2
+<PRE>
+https://storage.googleapis.com/tgb-nov2021/treatment2.fq.gz
+</PRE>
+
+GTF file SacSer2 assembly
+<PRE>
+https://storage.googleapis.com/tgb-nov2021/sacSer2.gtf
+</PRE>
+
 
 ### RNA-Seq Data Set
 
