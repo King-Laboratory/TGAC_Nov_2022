@@ -32,7 +32,7 @@ https://storage.googleapis.com/tgb-nov2021/sacSer2.gtf
 Example FASTQ file to examine with FastQC
 <PRE>
 https://storage.googleapis.com/tgb-nov2021/example_file.fastq.gz
-<PRE>
+</PRE>
 Example series matrix file
 <PRE>
 https://storage.googleapis.com/tgb-nov2021/exam2_data.txt.gz
