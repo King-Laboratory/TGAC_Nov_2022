@@ -28,6 +28,16 @@ GTF file SacSer2 assembly
 https://storage.googleapis.com/tgb-nov2021/sacSer2.gtf
 </PRE>
 
+### University of Maine BMB 402/505 Files
+Example FASTQ file to examine with FastQC
+<PRE>
+https://storage.googleapis.com/tgb-nov2021/example_file.fastq.gz
+<PRE>
+Example series matrix file
+<PRE>
+https://storage.googleapis.com/tgb-nov2021/exam2_data.txt.gz
+</PRE>
+
 
 ### RNA-Seq Data Set
 
