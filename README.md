@@ -75,5 +75,13 @@ https://storage.googleapis.com/tgb-nov2021/Homo_sapiens.GRCh38.104.chr_add_chr.g
 https://storage.googleapis.com/tgb-nov2021/TGFB_CTRL_all_counts.txt
   </PRE>
   
-  
+  <B>Count Files Per Sample</B>
+  <PRE>
+    https://storage.googleapis.com/tgb-nov2021/CTRL_rep1_counts.txt
+    https://storage.googleapis.com/tgb-nov2021/CTRL_rep2_counts.txt
+    https://storage.googleapis.com/tgb-nov2021/CTRL_rep3_counts.txt
+    https://storage.googleapis.com/tgb-nov2021/TGFB_rep1_counts.txt
+    https://storage.googleapis.com/tgb-nov2021/TGFB_rep2_counts.txt
+    https://storage.googleapis.com/tgb-nov2021/TGFB_rep3_counts.txt
+  </PRE>
 
