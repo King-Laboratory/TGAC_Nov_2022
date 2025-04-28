@@ -44,7 +44,7 @@ https://storage.googleapis.com/tgb-nov2021/exam2_data.txt.gz
 This is a RNA-Seq dataset from a human cell line that was constructed programmatically and designed to run fast.
 
 
-  <B>FASTQ Files</B>
+  <B>FASTQ Files</B>  - Select "fastqsanger.gz" as the format in Galaxy.
 
 <PRE>
 https://storage.googleapis.com/tgb-nov2021/MRC5_CTRL_rep1_SRR5448889_R1_mini.fastq.gz
@@ -62,7 +62,7 @@ https://storage.googleapis.com/tgb-nov2021/MRC5_TGFB_rep3_SRR5448894_R2_mini.fas
 </PRE
   
   
-    <B>GTF File to Use with htseq-count</B>
+    <B>GTF File to Use with htseq-count</B> - Select "gtf" as the format in Galaxy.
   
   <PRE>
 https://storage.googleapis.com/tgb-nov2021/Homo_sapiens.GRCh38.104.chr_add_chr.gtf.gz
@@ -75,13 +75,13 @@ https://storage.googleapis.com/tgb-nov2021/Homo_sapiens.GRCh38.104.chr_add_chr.g
 https://storage.googleapis.com/tgb-nov2021/TGFB_CTRL_all_counts.txt
   </PRE>
   
-  <B>Count Files Per Sample</B>
+  <B>Count Files Per Sample</B> - Select "tablular" as the format in Galaxy.
   <PRE>
-    https://storage.googleapis.com/tgb-nov2021/CTRL_rep1_counts.txt
-    https://storage.googleapis.com/tgb-nov2021/CTRL_rep2_counts.txt
-    https://storage.googleapis.com/tgb-nov2021/CTRL_rep3_counts.txt
-    https://storage.googleapis.com/tgb-nov2021/TGFB_rep1_counts.txt
-    https://storage.googleapis.com/tgb-nov2021/TGFB_rep2_counts.txt
-    https://storage.googleapis.com/tgb-nov2021/TGFB_rep3_counts.txt
+https://storage.googleapis.com/tgb-nov2021/CTRL_rep1_counts.txt
+https://storage.googleapis.com/tgb-nov2021/CTRL_rep2_counts.txt
+https://storage.googleapis.com/tgb-nov2021/CTRL_rep3_counts.txt
+https://storage.googleapis.com/tgb-nov2021/TGFB_rep1_counts.txt
+https://storage.googleapis.com/tgb-nov2021/TGFB_rep2_counts.txt
+https://storage.googleapis.com/tgb-nov2021/TGFB_rep3_counts.txt
   </PRE>
 
